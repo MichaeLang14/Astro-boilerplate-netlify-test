@@ -1,5 +1,5 @@
 ---
-layout: "@/templates/BasePost.astro'"
+layout: "@/templates/BasePost.astro"
 title: My First Blog with Netlify-CMS
 description: This is my first Blog written with Netlify-CMS
 pubDate: 2023-03-29T18:59:29.598Z
